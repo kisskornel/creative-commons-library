@@ -23,6 +23,7 @@ $LIC='cc0';
     <td><h1><a href="/library/dropofwhisper.php">Drop of whisper (2005)</h1></td>
 </table>
 </center>
+<!-----------BEGIN LICENSE CHOOSER CODE----->
 <center>
     <h3><?php
     if ($LIC == 'cc0'){
@@ -52,4 +53,5 @@ $LIC='cc0';
     ?>
 </h3>
 </center>
+<!-----------END LICENSE CHOOSER CODE----->
 </html>
