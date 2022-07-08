@@ -3,3 +3,5 @@
 /*.mp3
 /lic/lists/*.txt
 /lic/lists/*.png
+/library/*.php
+!/library/sample.php
