@@ -5,3 +5,9 @@ a, h1, h3, h2{
     font-family: arial,sans-serif;
     -webkit-text-fill-color: black;
 }
+.dload{
+    font-family: arial,sans-serif;
+    -webkit-text-fill-color: white;
+    font-size: 102px;
+    background-color: grey;
+}
