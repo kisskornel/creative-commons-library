@@ -4,7 +4,7 @@ $ARTIST='Sample Artist';
 $STYLESHEET='/cc.css';
 $LIC='cc0';
 $ENDPURL='https://data-one-cz-z0.megjobbmintatv.sbs/';
-$PATH='/Drop_of_whisper_(2005)_-_antony.raijekov.mp3';
+$PATH='Drop_of_whisper_(2005)_-_antony.raijekov.mp3';
 $TYPE='audio/mpeg';
 ?>
 <html>
