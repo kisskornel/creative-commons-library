@@ -14,7 +14,7 @@ $TYPE='audio/mpeg';
 </head>
 <center>
     <h1><?php echo $CC_TITLE;?></h1>
-    <h6><?php echo $ARTIST;?></h6>
+    <h3><?php echo $ARTIST;?></h3>
 </center>
 <br></br>
 <br></br>
