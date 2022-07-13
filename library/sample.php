@@ -24,7 +24,9 @@ $TYPE='audio/mpeg';
     <video controls nodownload>
         <source src="<?php echo $ENDPURL;?><?php echo $PATH;?>" type="<?php echo $TYPE;?>">
     </video>
+    <center>
     <button class="dload" onclick="window.location.href='<?php echo $ENDPURL;?><?php echo $PATH;?>'">Download (By Downloading you agree to the Creative Commons License!)</button>
+    </center>
 </center>
 <!-----------BEGIN LICENSE CHOOSER CODE----->
 <center>
